@@ -1,4 +1,12 @@
-.body {
+@media (min-width: 576px)
+.col-sm-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size: 1rem;
@@ -8,12 +16,9 @@
     text-align: left;
     background-color: #fff;
 }
-.@media (min-width: 576px)
-.col-sm-4 {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 33.333333%;
-    flex: 0 0 33.333333%;
-    max-width: 33.333333%;
+body {
+    display: block;
+    margin: 8px;
 }
 .jumbotron_text_center {
   background-image: url("https://s22.postimg.cc/q7in78pht/blue-2906525_1920.jpg");
@@ -27,10 +32,10 @@
     background-color: #fff;
     border: 1px solid #dee2e6;
     border-radius: 0.25rem;
-    max-width: 100%;
+    max-width: 25%;
     height: auto;
 }
-.img {
+img {
     vertical-align: middle;
     border-style: none;
 }
