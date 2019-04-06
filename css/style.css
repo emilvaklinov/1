@@ -10,19 +10,11 @@ body {
     text-align: left;
     background-color: #fff;
 }
-body {
+/* body {
     display: block;
     margin: 8px;
-}
+}*/
 
-
-
-div.col-sm-4 {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 33.333333%;
-    flex: 0 0 33.333333%;
-    max-width: 33.333333%;
-}
 
 .jumbotron_text_center {
   background-image: url("https://s22.postimg.cc/q7in78pht/blue-2906525_1920.jpg");
