@@ -12,7 +12,7 @@ body {
     display: block;
     margin: 8px;
 }
-/*@media (min-width: 576px)*/
+@media (min-width: 576px)
 .col-sm-4 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 33.333333%;
@@ -32,7 +32,7 @@ img.img-thumbnail {
     background-color: #fff;
     border: 1px solid #dee2e6;
     border-radius: 0.25rem;
-    max-width: 25%;
+    max-width: 50%;
     height: auto;
 }
 img {
