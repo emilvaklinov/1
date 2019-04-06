@@ -9,6 +9,10 @@ body {
     color: #212529;
     text-align: left;
     background-color: #fff;
+    background-image: url("https://s22.postimg.cc/q7in78pht/blue-2906525_1920.jpg");
+    padding: 0;
+    background-size: cover;
+    font-size: 100%;
 }
 /* body {
     display: block;
