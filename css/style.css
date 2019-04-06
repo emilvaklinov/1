@@ -38,8 +38,8 @@ body {
 .slider > div {
   /* make sure the width is honored */
   flex-shrink: 0;
-  width: 550px;
-  height: 550px;
+  width: 650px;
+  height: 650px;
 }
 
 .jumbotron_text_center {
@@ -61,8 +61,8 @@ img {
     vertical-align: middle;
     border-style: none;
     flex-shrink: 0;
-    width: 520px;
-    height: 470px;
+    width: 620px;
+    height: 530px;
 }
 
 *, *::before, *::after {
