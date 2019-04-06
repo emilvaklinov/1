@@ -21,6 +21,27 @@ body {
 
 }
 
+.slider {
+  /* line them up horizontally */
+  display: flex;
+
+  /* allow for scrolling */
+  overflow-x: auto;
+
+  /* make it smooth on iOS */
+  -webkit-overflow-scrolling: touch;
+
+  /* each slide snaps into place */
+  scroll-snap-points-x: repeat(300px);
+  scroll-snap-type: mandatory;
+}
+.slider > div {
+  /* make sure the width is honored */
+  flex-shrink: 0;
+  width: 300px;
+  height: 300px;
+}
+
 .jumbotron_text_center {
   background-image: url("https://s22.postimg.cc/q7in78pht/blue-2906525_1920.jpg");
   background-size: cover;
