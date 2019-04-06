@@ -21,32 +21,25 @@ body {
 
 }
 
-.slideshow {
-  position: relative;
-  overflow: hidden;
-}
-.images {
-  background: url(slideshow.jpg);
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 300%;
-  animation: slideshow 10s linear infinite;
-}
-@keyframes slideshow {
-  0%    { left: 0; }
-  100%  { left: -200%; }
-  transform: translate3d(0, 0, 0);
-}
+.slider {
+  /* line them up horizontally */
+  display: flex;
 
-@keyframes moveSlideshow {
- 100% {
-   -webkit-transform: translateX(-200%);
- }
+  /* allow for scrolling */
+  overflow-x: auto;
+
+  /* make it smooth on iOS */
+  -webkit-overflow-scrolling: touch;
+
+  /* each slide snaps into place */
+  scroll-snap-points-x: repeat(300px);
+  scroll-snap-type: mandatory;
 }
-.slideshow:hover .images {
-  animation-duration: 5s;
+.slider > div {
+  /* make sure the width is honored */
+  flex-shrink: 0;
+  width: 300px;
+  height: 300px;
 }
 
 .jumbotron_text_center {
