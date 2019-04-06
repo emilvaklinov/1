@@ -14,7 +14,12 @@ body {
     display: block;
     margin: 8px;
 }*/
+.form-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 
+}
 
 .jumbotron_text_center {
   background-image: url("https://s22.postimg.cc/q7in78pht/blue-2906525_1920.jpg");
