@@ -69,6 +69,18 @@ img {
     box-sizing: border-box;
 }
 
+section {
+    display: block;
+    padding: 3%;
+    margin-top: 2%;
+    background-color: white;
+    box-shadow: 0px 2px 22px 1px rgba(0,0,0,0.6);
+    transform: translateY(20px);
+    transition: 0.5s ease-in-out;
+    opacity: 1;
+    transform: translateY(0px)
+}
+
 h5 {
   font-size: 25px;
   text-align: center;
