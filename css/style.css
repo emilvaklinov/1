@@ -21,10 +21,11 @@ body {
 
 }
 
-#slider {
+.slider {
   /* line them up horizontally */
   display: flex;
-
+  margin-left: 5%;
+  margin-right: auto;
   /* allow for scrolling */
   overflow-x: auto;
 
@@ -56,7 +57,9 @@ img.img-thumbnail {
     border-radius: 0.25rem;
     max-width: 12%;
     height: auto;
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 img {
     vertical-align: middle;
