@@ -83,15 +83,6 @@ section {
     transform: translateY(0px)
 }
 
-h5 {
-  font-size: 25px;
-  text-align: center;
-  margin-top: 40px;
-  margin-bottom: 20px;
-  text-transform:
-  font-family:
-}
-
 h2 {
 	font-size: 25px;
   font-family: Palatino, 'Palatino Linotype', serif;
@@ -105,8 +96,8 @@ h3 {
 }
 
 h4 {
-  font-size: 12px;
-  text-align: center;
+  text-align: right;
+  margin-top: 20px;
 }
 
 h5 {
@@ -115,6 +106,13 @@ h5 {
   font-family: monospace;
   color: grey;
 }
+
+h6 {
+  font-size: 12px;
+  text-align: center;
+}
+
+
 
 div#txt {
   text-align: center;
