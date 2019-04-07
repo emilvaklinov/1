@@ -1,8 +1,8 @@
 @media (min-width: 576px) {
 
 body {
-/*  font-family: "Comic Sans MS", cursive, sans-serif;*/
-  font-family: sans-serif;
+    /*font-family: "Comic Sans MS", sans-serif;*/
+    font-family: "URW Chancery L";
     margin: 0;
     font-size: 1rem;
     font-weight: 400;
