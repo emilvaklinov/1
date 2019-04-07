@@ -19,7 +19,6 @@ body {
 
 .slider {
   /* line them up horizontally */
-  cursor: pointer;
   display: flex;
   margin-left: 5%;
   margin-right: 5%;
