@@ -90,7 +90,7 @@ section {
     transform: translateY(0px)
 }
 
-.svg {
+span {
     color: #2E2E2E;
     font-weight: 500;
     text-decoration: none;
