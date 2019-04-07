@@ -90,11 +90,12 @@ section {
     transform: translateY(0px)
 }
 
-span {
-    color: #2E2E2E;
-    font-weight: 500;
-    text-decoration: none;
-    cursor: pointer;
+}
+.clock {
+  color: #ffffcc;
+  text-align:right;
+  width:auto;
+  height:auto;
 }
 
 h5 {
