@@ -23,6 +23,7 @@ body {
 
 .slider {
   /* line them up horizontally */
+  cursor: pointer;
   display: flex;
   margin-left: 5%;
   margin-right: 5%;
@@ -62,7 +63,6 @@ img.img-thumbnail {
     margin-right: auto;
 }
 img {
-    cursor: pointer;
     vertical-align: middle;
     border-style: none;
     flex-shrink: 0;
@@ -88,6 +88,13 @@ section {
     transition: 0.5s ease-in-out;
     opacity: 1;
     transform: translateY(0px)
+}
+
+a {
+    color: #2E2E2E;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 h5 {
@@ -116,7 +123,7 @@ h4 {
   text-align: center;
 }
 
-h6 {
+h5 {
   text-align: center;
   font-size: 14px;
   font-family: monospace;
