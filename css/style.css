@@ -90,14 +90,6 @@ section {
     transform: translateY(0px)
 }
 
-}
-script {
-  color: #ffffcc;
-  text-align:right;
-  width:auto;
-  height:auto;
-}
-
 h5 {
   font-size: 25px;
   text-align: center;
