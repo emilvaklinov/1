@@ -7,7 +7,7 @@ body {
     font-weight: 400;
     line-height: 1.5;
     color: #212529;
-    text-align: left;
+    text-align-: le--ft;
     background-color: #fff;
 }
 
@@ -57,6 +57,7 @@ img.img-thumbnail {
     margin-right: auto;
 }
 img {
+    cursor: pointer;
     vertical-align: middle;
     border-style: none;
     flex-shrink: 0;
@@ -69,7 +70,6 @@ img {
 }
 
 section {
-    cursor: pointer;
     display: block;
     padding: 3%;
     margin-top: 5%;
