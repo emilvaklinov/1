@@ -91,7 +91,7 @@ section {
 }
 
 }
-.clock {
+script {
   color: #ffffcc;
   text-align:right;
   width:auto;
