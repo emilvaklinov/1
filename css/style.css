@@ -67,6 +67,14 @@ img {
     height: 530px;
 }
 
+#img {
+  width: 200px;
+  height: 100px;
+
+  display: flex;
+
+}
+
 *, *::before, *::after {
     box-sizing: border-box;
 }
