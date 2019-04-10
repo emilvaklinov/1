@@ -13,16 +13,19 @@
     <h2>ACHIEVING GROWTH</h2>
   </div>
 
-  <div class="slider">
-    <div><h2>Hospitality..</h2><a href="http://kashta-bilyanska.wixsite.com/kashta-bilyanska">
+
+
+ <div class="slider">
+    <div><h2>Hospitality</h2><a href="http://kashta-bilyanska.wixsite.com/kashta-bilyanska">
       <img src="css/images/hospitality.png"></a></div>
-    <div><h2>Festivals & Contests..</h2><a href="https://www.rhodopecontest.org">
+    <div><h2>Festivals & Contests</h2><a href="https://www.rhodopecontest.org">
       <img src="css/images/contest.png"></a></div>
-    <div><h2>Investments and innovative solutions..</h2><a href="http://www.richdevelopment.net/index.php">
+    <div><h2>Investments and innovative solutions</h2><a href="http://www.richdevelopment.net/index.php">
       <img src="css/images/investments.png"></a></div>
-    <div><h2>Coding projects..</h2><a href="https://war-of-wizards.herokuapp.com/">
+    <div><h2>Coding projects</h2><a href="https://war-of-wizards.herokuapp.com/">
       <img src="css/images/coding.png"></a></div>
   </div>
+
 
 <section>
   <div class="container">
@@ -60,8 +63,33 @@ I believe FAC can help me refresh my skills and knowledge and be able to, this t
 
 </section>
 
+<script>
+  var i = 0;//start
+  var images = [];
+  var time = 1000;
 
-  <img src="https://s22.postimg.cc/tobiiu4oh/31786510_10213351185986522_6124191496544452608_o.jpg" class="img-thumbnail" alt="Cinque Terre">
+images[0] = 'slide1.jpg';
+images[1] = 'slide2.jpg';
+images[2] = 'slide3.jpg';
+
+
+function changeSlide(){
+  document.slide.src = images[1]{
+    if(i < images.length - 1){
+      i++;
+    } else {
+      i = 0;
+    }
+
+    setTimeout("changeSlide()", time);
+    }
+    window.onload = changeSlide;
+  }
+}
+</script>
+<img name="slide" width="400" height="200">
+
+<!--  <img src="https://s22.postimg.cc/tobiiu4oh/31786510_10213351185986522_6124191496544452608_o.jpg" class="img-thumbnail" alt="Cinque Terre"> -->
         <h5> => + 44/7706910638  => emil_vaklinov[at]yahoo.com </h5>
 
     <h6>
