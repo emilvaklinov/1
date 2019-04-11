@@ -1,31 +1,24 @@
-div#navbar {
-  overflow: hidden;
+@media (min-width: 576px) {
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 50px; /* Place the button at the bottom of the page */
+    right: 50px; /* Place the button */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: rgb(219, 84, 84);
+    color: white;
+    cursor: pointer;
+    padding: 25px;
+    border-radius: 7px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+  
+  }
+
+#myBtn:hover {
+    background-color: rgb(145, 143, 143); 
   }
   
-  div#navbar a {
-    float: left;
-    display: block;
-    color: #5a2525;
-    background-color: #e4e9eb;
-    text-align: center;
-    padding: 5px;
-    text-decoration: none;
-    width: 70px;
-  }
   
-  /* Page content */
-  .content {
-    padding: 6px;
-  }
-  
-  /* The sticky class is added to the navbar with JS when it reaches its scroll position */
-  .sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  
-  /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-  .sticky + .content {
-    padding-top: 60px;
-  }
+}
