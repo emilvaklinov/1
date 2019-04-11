@@ -114,6 +114,18 @@ section {
     transform: translateY(0px)
 }
 
+a {
+	color: rgb(88, 27, 27);
+	font-weight: 700;
+  text-decoration: none;
+  background-color: transparent;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  line-height: 1.8rem;
+  max-width: 23rem;
+  font-size: 1.1rem;
+}
+
 h2 {
 	font-size: 25px;
   font-family: Palatino, 'Palatino Linotype', serif;
