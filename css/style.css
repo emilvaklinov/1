@@ -36,8 +36,8 @@ body {
 .slider > div {
   /* make sure the width is honored */
   flex-shrink: 0;
-  width: 650px;
-  height: 650px;
+  width: 600px;
+  height: 600px;
 }
 
 .jumbotron_text_center {
@@ -59,25 +59,41 @@ img.img-thumbnail {
     margin-left: auto;
     margin-right: auto;
 }
+.img-thumbnail {
+  opacity: 1;
+}
+.active,
+.img-thumbnail:hover {
+  opacity: 0.6;
+}
 
 img {
     cursor: pointer;
     vertical-align: middle;
     border-style: none;
     flex-shrink: 0;
-    width: 620px;
-    height: 530px;
+    width: 550px;
+    height: 450px;
+    box-shadow: 0px 2px 22px 1px rgba(0,0,0,0.2);
+    padding: 0.20rem;
+   
+}
+.demo {
+  opacity: 1;
 }
 
-
+.active,
+.demo:hover {
+  opacity: 0.6;
+}
+/*
 #img {
   width: 200px;
   height: 100px;
   margin-left: 560px;
   margin-right: auto;
-
-
 }
+*/
 
 *, *::before, *::after {
     box-sizing: border-box;
