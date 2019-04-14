@@ -7,7 +7,7 @@ body {
     font-weight: 400;
     line-height: 1.5;
     color: #212529;
-    text-align-: le--ft;
+    text-align: left;
     background-color: #fff;
 }
 
@@ -86,14 +86,7 @@ img {
 .demo:hover {
   opacity: 0.6;
 }
-/*
-#img {
-  width: 200px;
-  height: 100px;
-  margin-left: 560px;
-  margin-right: auto;
-}
-*/
+
 
 *, *::before, *::after {
     box-sizing: border-box;
