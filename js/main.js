@@ -15,3 +15,10 @@ function topFunction() {
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 
+var tID; //we will use this variable to clear the setInterval()
+
+function stopAnimate() {
+  clearInterval(tID);
+} //end of stopAnimate()
+
+
