@@ -18,13 +18,11 @@ body {
   flex-direction: column;
 }
 
-
-
 .slider {
   /* line them up horizontally */
   display: flex;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 11%;
+  margin-right: 7%;
   /* allow for scrolling */
   overflow-x: auto;
   /* make it smooth on iOS */
@@ -36,9 +34,11 @@ body {
 .slider > div {
   /* make sure the width is honored */
   flex-shrink: 0;
-  width: 600px;
-  height: 600px;
+  width: 300px;
+  height: 300px;
 }
+
+
 
 .jumbotron_text_center {
   background-image: url("https://s22.postimg.cc/q7in78pht/blue-2906525_1920.jpg");
@@ -72,12 +72,14 @@ img {
     vertical-align: middle;
     border-style: none;
     flex-shrink: 0;
-    width: 550px;
-    height: 450px;
+    width: 280px;
+    height: 210px;
     box-shadow: 0px 2px 22px 1px rgba(0,0,0,0.2);
-    padding: 0.20rem;
+    padding: 0.10rem;
    
 }
+
+
 .demo {
   opacity: 1;
 }
@@ -125,7 +127,7 @@ a {
 }
 
 h2 {
-	font-size: 25px;
+	font-size: 18px;
   font-family: Palatino, 'Palatino Linotype', serif;
   color: #615545;
   margin-bottom: 7px;
