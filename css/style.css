@@ -167,9 +167,9 @@ div#txt {
 audio#myVoice {
 position: absolute;
 width: 270px;
-height: 40px;
-margin-left: 110px; 
-margin-top: 10px;
+height: 45px;
+margin-left: 150px; 
+margin-top: 12px;
 }
 
 }
