@@ -96,6 +96,13 @@ img {
     box-sizing: border-box;
 }
 
+audio#myVoice
+{
+height: 40px;
+margin-left: 0px; 
+margin-top: 0px;
+}
+
 section {
     display: block;
     padding: 3%;
