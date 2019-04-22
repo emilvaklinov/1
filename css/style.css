@@ -165,11 +165,8 @@ div#txt {
 }
 
 audio#myVoice {
-position: absolute;
-width: 250px;
-height: 50px;
-margin-left: 160px; 
-margin-top: 10px;
+
+
 
 }
 
@@ -182,8 +179,11 @@ box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
 -moz-transform: scale(1.05);
 transform: scale(1.05);
 }
-audio
+audio#myVoice
 {
+height: 40px;
+margin-left: 160px; 
+margin-top: 0px;
 -webkit-transition:all 0.5s linear;
 -moz-transition:all 0.5s linear;
 -o-transition:all 0.5s linear;
@@ -191,9 +191,9 @@ transition:all 0.5s linear;
 -moz-box-shadow: 2px 2px 4px 0px #006773;
 -webkit-box-shadow:  2px 2px 4px 0px #006773;
 box-shadow: 2px 2px 4px 0px #006773;
--moz-border-radius:7px 7px 7px 7px ;
--webkit-border-radius:7px 7px 7px 7px ;
-border-radius:7px 7px 7px 7px ;
+-moz-border-radius:20px 20px 20px 20px ;
+-webkit-border-radius:20px 20px 20px 20px ;
+border-radius:20px 20px 20px 20px ;
 }
 
 }
