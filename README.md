@@ -1,7 +1,7 @@
 # This is a one-page site!
 
 
-## Sait: https://emilvaklinov.github.io/Portfolio/
+## Site: https://emilvaklinov.github.io/Portfolio/
 
 
 ## Projects: https://emilvaklinov.github.io/Projects/
