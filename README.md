@@ -1,4 +1,4 @@
-## This is a Portfolio one page site!
+This is a Portfolio one page site!
 
 
 # Main sait: https://emilvaklinov.github.io/Portfolio/
@@ -10,35 +10,35 @@
 
 =========== M V P =============
 
-## Create a one-page website;
-Create a one-page website in HTML and CSS (using some vanilla JavaScript if you’d --like) and host it on GitHub Pages.
+# Create a one-page website;
 ```
-Your commit history should tell a story and your website must:
-```
-```
-Tell us about who you are and why you are applying for the programme;
+1. Create a one-page website in HTML and CSS (using some vanilla JavaScript if you’d --like) and host it on GitHub Pages.
 ```
 ```
-Demonstrate your learning from the prerequisites;
+2. Your commit history should tell a story and your website must:
 ```
 ```
-Contain a link back to the GitHub repo that contains the code for your site;
+3. Tell us about who you are and why you are applying for the programme;
 ```
 ```
-Contain links to your freeCodeCamp (please make sure that your profile is public) and Codewars pages;
+4. Demonstrate your learning from the prerequisites;
 ```
 ```
-Include an image carousel;
+5. Contain a link back to the GitHub repo that contains the code for your site;
 ```
 ```
-Be hosted on Github.
+6. Contain links to your freeCodeCamp (please make sure that your profile is public) and Codewars pages;
+```
+```
+7. Include an image carousel;
+```
+```
+8. Be hosted on Github.
 ```
 ```
 Not use a GitHub theme!
 ```
 ```
-Not use any Javascript or CSS libraries like Bootstrap or jQuery or use an image carousel package like Flickity - we want to see your own code!
+9. Not use any Javascript or CSS libraries like Bootstrap or jQuery or use an image carousel package like Flickity - we want to see your own code!
 ```
 
-
-![Alt Text](https://codepen.io/trakieca/full/zXoGpY)
