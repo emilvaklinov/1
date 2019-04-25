@@ -3,13 +3,14 @@
 
 ## Sait: https://emilvaklinov.github.io/Portfolio/
 
-    -----------------------------------------
 
 ## Projects: https://emilvaklinov.github.io/Projects/
 
-
-#=========== M V P =============
-
+```
+```
+=========== M V P =============
+```
+```
 ## Create a one-page website;
 ```
 1. Create a one-page website in HTML and CSS (using some vanilla JavaScript if you’d --like) and host it on GitHub Pages.
