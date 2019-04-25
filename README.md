@@ -37,9 +37,9 @@
 8. Be hosted on Github.
 ```
 ```
-Not use a GitHub theme!
+9. Not use a GitHub theme!
 ```
 ```
-9. Not use any Javascript or CSS libraries like Bootstrap or jQuery or use an image carousel package like Flickity - we want to see your own code!
+10. Not use any Javascript or CSS libraries like Bootstrap or jQuery or use an image carousel package like Flickity - we want to see your own code!
 ```
 
