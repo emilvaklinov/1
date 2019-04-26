@@ -164,6 +164,14 @@ h5 {
   color: grey;
 }
 
+h6 {
+	font-size: 18px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: #bb7418;
+  margin-bottom: 7px;
+  text-align: center;
+}
+
 footer {
   font-size: 12px;
   text-align: center;
