@@ -9,6 +9,7 @@
 
  2. Certificates: https://emilvaklinov.github.io/Certificates/
 
+All sub-pages are created together with the main page and are part of one UX design vision! 
 ```
 ```
 =========== M V P =============
@@ -55,3 +56,13 @@
 ```
 ```
 3. Created real-time clock fetching the local time of the user.
+```
+```
+4. Created two different tipes of image carousel. Automatic and sliding left and right (using Arrow buttons for computer or sliding in mobile apps).
+```
+```
+5. The images of the sliding carousel are interactive buttons to sub pages.
+```
+```
+6. Created voice message module.
+```
