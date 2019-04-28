@@ -1,10 +1,13 @@
-# This is a one-page site!
+# This is a Portfolio site with 2 sub pages!
 
+## Main page:
 
-## Site: https://emilvaklinov.github.io/Portfolio/
+## Portfolio: https://emilvaklinov.github.io/Portfolio/
 
+## Sub pages:
+ 1. Projects: https://emilvaklinov.github.io/Projects/
 
-## Projects: https://emilvaklinov.github.io/Projects/
+ 2. Certificates: https://emilvaklinov.github.io/Certificates/
 
 ```
 ```
@@ -43,3 +46,12 @@
 10. Not use any Javascript or CSS libraries like Bootstrap or jQuery or use an image carousel package like Flickity - we want to see your own code!
 ```
 
+=========== EXTENTIONS =============
+```
+1. Created Sub page Projects. https://emilvaklinov.github.io/Projects/
+```
+```
+2. Created Sub page Certificates. https://emilvaklinov.github.io/Certificates/
+```
+```
+3. Created real-time clock fetching the local time of the user.
