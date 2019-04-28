@@ -1,8 +1,7 @@
 
 /*THIS CODE IS VISIBLE IN https://emilvaklinov.github.io/Projects/
-IT'S GONNA BE IMPROVED IN THE FUTURE FUNCTIONALITY AS SEPARATE UPGRADE to this page!!
+IT'S GONNA BE IMPROVED IN THE FUTURE FUNCTIONALITY AS SEPARATE UPGRADE to this page!! */
 
-/*
 var controls = document.querySelectorAll(".controls");
 for (var i = 0; i < controls.length; i++) {
   controls[i].style.display = "inline-block";
@@ -60,4 +59,3 @@ previous.onclick = function() {
   pauseSlideshow();
   previousSlide();
 };
-*/
