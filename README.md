@@ -1,4 +1,4 @@
-# This is a Portfolio site with 2 sub pages!
+# This is a one-page Portfolio site with two sub pages!
 
 ## Main page:
 
