@@ -62,25 +62,40 @@ IT'S GONNA BE IMPROVED IN THE FUTURE FUNCTIONALITY AS SEPARATE UPGRADE*/
     
       .slide:nth-of-type(1) {
         background-color: rgb(252, 251, 249);
-        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Portfolio/master/css/images/contest.png");
+        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Portfolio/master/css/images/emil1.jpg");
       }
     
       .slide:nth-of-type(2) {
         background-color: rgb(252, 251, 249);
-        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Portfolio/master/css/images/hospitality.png");
+        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Portfolio/master/css/images/emil2.jpg");
       }
     
       .slide:nth-of-type(3) {
         background-color: rgb(252, 251, 249);
-        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Projects/master/pictures/secretgarden.png");
+        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Portfolio/master/css/images/emil3.jpg");
       }
     
       .slide:nth-of-type(4) {
         background-color: rgb(252, 251, 249);
-        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Projects/master/pictures/bucketlist.png");
+        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Portfolio/master/css/images/emil4.jpg");
       }
     
       .slide:nth-of-type(5) {
+        background-color: rgb(252, 251, 249);
+        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Portfolio/master/css/images/emil5.jpg");
+      }
+
+      .slide:nth-of-type(6) {
+        background-color: rgb(252, 251, 249);
+        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Portfolio/master/css/images/emil6.jpg");
+      }
+
+      .slide:nth-of-type(7) {
+        background-color: rgb(252, 251, 249);
+        background-image: url("https://raw.githubusercontent.com/emilvaklinov/Portfolio/master/css/images/emil7.jpg");
+      }
+
+      .slide:nth-of-type(8) {
         background-color: rgb(252, 251, 249);
         background-image: url("https://raw.githubusercontent.com/emilvaklinov/Projects/master/pictures/slide3.jpg");
       }
