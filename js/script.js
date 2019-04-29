@@ -55,7 +55,7 @@ function keyMove(e) {
   }
 
   if (e.keyCode == "37") {
-      prevSlide();
+      previousSlide();
   }
 }
 
