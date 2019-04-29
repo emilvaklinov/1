@@ -3,16 +3,16 @@
     display: none; /* Hidden by default */
     position: fixed; /* Fixed/sticky position */
     bottom: 50px; /* Place the button at the bottom of the page */
-    right: 50px; /* Place the button */
-    z-index: 99; /* Make sure it does not overlap */
-    border: none; /* Remove borders */
-    outline: none; /* Remove outline */
+    right: 50px; 
+    z-index: 99; 
+    border: none; 
+    outline: none; 
     background-color: rgb(219, 84, 84);
     color: white;
     cursor: pointer;
     padding: 25px;
-    border-radius: 7px; /* Rounded corners */
-    font-size: 18px; /* Increase font size */
+    border-radius: 7px; 
+    font-size: 18px; 
   
   }
 

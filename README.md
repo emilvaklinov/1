@@ -61,8 +61,8 @@ use an image carousel package like Flickity - we want to see your own code!
 3. Created real-time clock fetching the local time of the user.
 ```
 ```
-4. Created two different tipes of image carousel. Automatic and sliding left and 
-right (using Arrow buttons for computer or sliding in mobile apps).
+4. Created two different tipes of image carousel one automatic and one sliding left and 
+right (using Arrow key navigation on keyboard or sliding in mobile apps).
 ```
 ```
 5. The images of the sliding carousel are interactive buttons to sub pages.
