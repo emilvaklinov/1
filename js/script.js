@@ -48,14 +48,29 @@ pauseButton.onclick = function() {
   }
 };
 
+function keyMove(e) {
+
+  if (e.keyCode == "39") {
+      nextSlide();
+  }
+
+  if (e.keyCode == "37") {
+      prevSlide();
+  }
+}
+
 var next = document.getElementById("next");
-var previous = document.getElementById("previous");
+var pause = document.getElementById("previous");
 
 next.onclick = function() {
-  pauseSlideshow();
-  nextSlide();
+pauseSlideshow();
+nextSlide();
 };
+
+
 previous.onclick = function() {
-  pauseSlideshow();
-  previousSlide();
+pauseSlideshow();
+previousSlide();
 };
+
+window.addEventListener('keydown', keyMove);
