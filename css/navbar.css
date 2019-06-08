@@ -7,7 +7,7 @@
     z-index: 99; 
     border: none; 
     outline: none; 
-    background-color: rgb(189, 119, 119);
+    background-color: rgb(240, 122, 54);
     color: white;
     cursor: pointer;
     padding: 25px;
@@ -21,7 +21,7 @@
   }
   
 input {
-    width: 90px; 
+    width: 100px; 
     text-align: center; 
     padding: 8px; 
     box-shadow: 6px 6px 5px; 
